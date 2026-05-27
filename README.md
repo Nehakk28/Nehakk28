@@ -40,7 +40,7 @@ Passionate about building real-world software applications, AI-powered systems, 
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,html,css,bootstrap,tailwind,mongodb,mysql,sqlite,tensorflow,opencv,git,github,vscode,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,bootstrap,tailwind,mongodb,mysql,sqlite,tensorflow,opencv,git,github,vscode,c,java" />
 
 </p>
 
