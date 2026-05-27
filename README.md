@@ -28,13 +28,13 @@ Passionate about building real-world software applications, AI-powered systems, 
 
 # 🚀 About Me
 
-- 🎓 B.Tech Computer Science Engineering Graduate
-- 💻 Full Stack Developer
-- 🤖 Interested in AI, Machine Learning & Computer Vision
-- 🌱 Currently learning MERN Stack & Advanced Django
-- 🧠 Strong interest in real-world software development
-- 📚 Practicing DSA & Problem Solving
-- ⚡ Love building modern UI/UX applications
+- B.Tech Computer Science Engineering Graduate
+- Full Stack Developer
+- Interested in AI, Machine Learning & Computer Vision
+- Currently learning MERN Stack & Advanced Django
+- Strong interest in real-world software development
+- Practicing DSA & Problem Solving
+- Love building modern UI/UX applications
 
 # 🛠️ Tech Stack
 
@@ -60,39 +60,6 @@ Passionate about building real-world software applications, AI-powered systems, 
 
 </p>
 
-# 💻 Featured Projects
-
-## 🤖 AI-Powered Self-Healing Code Debugger
-
-AI-powered debugging system that analyzes code errors and provides intelligent debugging suggestions using Django and AI integration.
-
-### Features
-- AI debugging assistant
-- Code analysis system
-- Admin dashboard
-- User management
-- Analytics dashboard
-- Debugging history
-- Coding assistant
-
-### Technologies
-`Python` `Django` `JavaScript` `SQLite` `HTML` `CSS`
-
-## 🎥 PIX OVEX – Real-Time Object Detection System
-
-AI-powered object detection application using TensorFlow and OpenCV for real-time object recognition through webcam.
-
-### Features
-- Real-time object detection
-- Live webcam processing
-- TensorFlow model integration
-- Detection history
-- Dashboard analytics
-- Authentication system
-
-### Technologies
-`Python` `TensorFlow` `OpenCV` `SQLite` `CustomTkinter`
-
 
 # 📈 Coding Profiles
 
@@ -104,26 +71,19 @@ AI-powered object detection application using TensorFlow and OpenCV for real-tim
 
 </p>
 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nehakk28&theme=tokyo-night" />
+
+</div>
+
 # 🎯 Current Goals
 
-- 🚀 Become a Software Developer
-- 📚 Master Full Stack Development
-- 🤖 Build AI-based Applications
-- 🌍 Contribute to Open Source
-- 💼 Work on scalable real-world projects
+- Become a Software Developer
+- Master Full Stack Development
+- Build AI-based Applications
+- Contribute to Open Source
+- Work on scalable real-world projects
 
-# 📌 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Nehakk28&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-
-</p>
-
-# ⭐ Support
-
-If you like my projects, consider giving them a ⭐ on GitHub!
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
-</p>
