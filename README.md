@@ -1,42 +1,129 @@
-# Neha Kumari
+# Hi 👋, I'm Neha Kumari
 
-Full-stack developer · Python · Django · AI/ML · India
+<h3 align="center">
+Full Stack Developer | Python Developer | AI & ML Enthusiast
+</h3>
 
-> B.Tech Computer Science Engineering graduate passionate about building real-world software and AI-powered applications.
+<p align="center">
+Passionate about building real-world software applications, AI-powered systems, and modern web applications.
+</p>
 
-## 🚀 Tech Stack
+# 🌐 Connect With Me
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+<p align="left">
 
-## 💻 Projects
+<a href="https://www.linkedin.com/in/neha-kumari30/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Neha%20Kumari-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### 🤖 AI-Powered Self-Healing Code Debugger
-AI debugger that analyzes code errors and provides intelligent debugging suggestions.
+<a href="https://github.com/Nehakk28" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
 
-### 🎥 PIX OVEX – Real-Time Object Detection
-Real-time object detection system using TensorFlow, OpenCV, and Python.
+<a href="mailto:nehakk2804@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-## 📚 Currently Learning
+</p>
 
-- Advanced Django
-- MERN Stack
-- Machine Learning
-- Data Structures & Algorithms
+# 🚀 About Me
 
-## 🎯 Goals
+- 🎓 B.Tech Computer Science Engineering Graduate
+- 💻 Full Stack Developer
+- 🤖 Interested in AI, Machine Learning & Computer Vision
+- 🌱 Currently learning MERN Stack & Advanced Django
+- 🧠 Strong interest in real-world software development
+- 📚 Practicing DSA & Problem Solving
+- ⚡ Love building modern UI/UX applications
 
-- Become a Software Developer
-- Contribute to Open Source
-- Build AI-based Applications
+# 🛠️ Tech Stack
 
-## 📫 Connect With Me
+<p align="left">
 
-- GitHub: https://github.com/Nehakk28
+<img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,html,css,bootstrap,tailwind,mongodb,mysql,sqlite,tensorflow,opencv,git,github,vscode,c,cpp,java" />
+
+</p>
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nehakk28&show_icons=true&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehakk28&layout=compact&theme=tokyonight" width="48%" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehakk28&theme=tokyonight" width="70%" />
+
+</p>
+
+# 💻 Featured Projects
+
+## 🤖 AI-Powered Self-Healing Code Debugger
+
+AI-powered debugging system that analyzes code errors and provides intelligent debugging suggestions using Django and AI integration.
+
+### Features
+- AI debugging assistant
+- Code analysis system
+- Admin dashboard
+- User management
+- Analytics dashboard
+- Debugging history
+- Coding assistant
+
+### Technologies
+`Python` `Django` `JavaScript` `SQLite` `HTML` `CSS`
+
+## 🎥 PIX OVEX – Real-Time Object Detection System
+
+AI-powered object detection application using TensorFlow and OpenCV for real-time object recognition through webcam.
+
+### Features
+- Real-time object detection
+- Live webcam processing
+- TensorFlow model integration
+- Detection history
+- Dashboard analytics
+- Authentication system
+
+### Technologies
+`Python` `TensorFlow` `OpenCV` `SQLite` `CustomTkinter`
+
+
+# 📈 Coding Profiles
+
+<p align="left">
+
+<a href="https://github.com/Nehakk28">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+# 🎯 Current Goals
+
+- 🚀 Become a Software Developer
+- 📚 Master Full Stack Development
+- 🤖 Build AI-based Applications
+- 🌍 Contribute to Open Source
+- 💼 Work on scalable real-world projects
+
+# 📌 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nehakk28&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</p>
+
+# ⭐ Support
+
+If you like my projects, consider giving them a ⭐ on GitHub!
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
+</p>
