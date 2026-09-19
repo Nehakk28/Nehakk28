@@ -1,7 +1,7 @@
 <h1 align="center">  Hi 👋, I'm Neha Kumari </h1>
 
 <h3 align="center">
-Full Stack Developer | Python Developer | AI & ML Enthusiast
+Full Stack Developer | Python Developer 
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ Passionate about building real-world software applications, AI-powered systems, 
 
 # 🚀 About Me
 
-- B.Tech Computer Science Engineering Graduate
+- B.Tech(Hons) Computer Science Engineering Graduate
 - Full Stack Developer
 - Interested in AI, Machine Learning & Computer Vision
 - Currently learning MERN Stack & Advanced Django
