@@ -67,14 +67,6 @@ Passionate about building real-world software applications, AI-powered systems, 
 
 </p>
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nehakk28&theme=tokyo-night" />
-
-</div>
-
 # 🎯 Current Goals
 
 - Become a Software Developer
