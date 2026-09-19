@@ -61,6 +61,10 @@ Passionate about building real-world software applications, AI-powered systems, 
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://leetcode.com/u/neha_kumari30/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
 </p>
 
 # 📈 Contribution Graph
